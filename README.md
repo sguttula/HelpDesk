@@ -49,8 +49,17 @@ After clicking the Admin Panel button it will take you to this page to show the 
 
 This App was a useful tool to provide users with an easier way to issue their problems. It was designed and built in Visual Studio Code by using React Native. I used android studio and xcode to create virtual devices to deploy and launch the app for futher testing and publishing.
 
-NOTE: Since using Expo Go instead of React Native CLI, there were a few dependencies and node modules that were required for this project which couldn't be implemented, such as, FileSystem, localStorage and basic HTML tags and elements. Due to the time constraints, Expo Go was the fastest and most effieient way for me to design, build, launch and deploy this app. If you have any questions, please reach out to me: sidguttula@yahoo.com
+>NOTE: Since using Expo Go instead of React Native CLI, there were a few dependencies and node modules that were required for this project which couldn't be implemented, such as, FileSystem, localStorage and basic HTML tags and elements. 
 
+Due to the time constraints and setup issues with React Native CLI on my new machine which didn't have anything installed until the purpose of this project, Expo Go was the fastest and most effieient way for me to install, design, build, launch and deploy this app. If you have any further questions, please reach out to me: sidguttula@yahoo.com
+
+Few errors that I've faced during the implementation of this project:
+
+![Screenshot 2024-01-19 at 4 12 07 PM](https://github.com/sguttula/HelpDesk/assets/27445076/2e9aaff0-fb7e-4cd6-9321-dca761de022a)
+
+![Screenshot 2024-01-19 at 4 10 29 PM](https://github.com/sguttula/HelpDesk/assets/27445076/9c71b6dd-e24b-454c-8f4f-d6ae94f22e3e)
+
+![Screenshot 2024-01-19 at 3 58 05 PM](https://github.com/sguttula/HelpDesk/assets/27445076/9ae1a636-4b36-4a80-b033-154850464c21)
 
 
 
