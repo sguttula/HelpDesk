@@ -1,7 +1,7 @@
 # HelpDesk
 
 ## Introduction
->A ticket management system to provide users an easier way to submit support ticket requests for any issues they encounter. Devolpoed in React Native and launched with Expo Go.
+>A ticket management system devolpoed in React Native and launched with Expo Go.
 
 ## Setup
 1. Install dependencies according to your machine or system.
